@@ -1,4 +1,4 @@
-# CS-305
+# Secure Software Report
 
 In this scenario, Artemis Financial was a hypothetical client of ours, which was involved in financial consultation for investing, retirement, insurance and savings.  They needed a web-based application which inluded a server-side file verification function to ensure that data received was unchanged in the process of being transferred between the client and server.  In addition, the communications had to be secured to prevent malicious activities.  
 
